@@ -1,0 +1,10 @@
+{
+  "description": "Provides real-time elevator and escalator locations, status, and accessible routes in Seoul subway stations to assist mobility-impaired users and travelers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
